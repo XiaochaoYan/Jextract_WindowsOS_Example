@@ -1,0 +1,3 @@
+set
+java --version
+cmd
